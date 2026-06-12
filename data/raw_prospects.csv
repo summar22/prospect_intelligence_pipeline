@@ -1,0 +1,487 @@
+record_id,company_name,domain,industry,employee_count,country,contact_email,source_captured_at
+R1174,BASALT CONSTRUCTION INTERNATIONAL CO,basaltconstruction.com,Insurance,11-50,DE,,2025-08-08
+R1256,"IRONWOOD,AGRITECH HOLDINGS INC.",www.ironwoodagritechho.com,Energy,1200,Australia,info@ironwood.com,11/01/2025
+R1014,"northwind,logistics global inc",northwindlogistics.com,Gaming,10 to 210,India,,2025-08-23
+R1316,Nimbus Cloud Global Co,nimbuscloudglobal.com,,11-50,U.S.A.,contact@nimbus,19/06/2025
+R1315,"NIMBUS,CLOUD PARTNERS INCORPORATED",NIMBUSCLOUDPARTNER.COM,Media,1-10,Canada,info@nimbus.com,28/05/2025
+R1138,  Foxglove Energy Group Co ,foxgloveenergygrou.com,Logistics,500-590,DE,,
+R1015,Brightpath Analytics Corp,brightpathanalytic.com,Education,130,UK,info@brightpath.com,5/2/2025
+R1387,Thicket Gaming Holdings,,Gaming,1000+,us,info@thicket.com,2025/12/10
+R1066,orbit manufacturing international,ORBITMANUFACTURING.COM,Education,1000+,India,info@orbit.com,2025-06-23
+R1460,ZEPHYR DRONES INTERNATIONAL,ZEPHYRDRONESINTERN.COM,Retail,201-500,Canada,info@zephyr.com,2025-06-17
+R1229,Granite Insurance Partners Corp,graniteinsurancepa.com,Pharmaceuticals,130,Australia,info@granite.com,6 Sep 2025
+R1427,Willow Childcare International LLC,willowchildcareint.com,Media,200-290,DE, INFO@willow.com ,03/11/2025
+R1390,"Thicket,Gaming International Corp",www.thicketgaminginter.com,Telecom,,,info@thicket.com,10 Jul 2025
+R1433,Xenon Labs Co,xenonlabs.com,Healthcare,,United States,,
+R1183,"COBALT,TELECOM GROUP INC",www.cobalttelecomgroup.com,,18,,info@cobalt.com,2025/06/12
+R1012,Northwind Logistics Partners Inc.,northwindlogistics.com,,~42,Australia,info@northwind.com,16/01/2025
+R1291,Larkspur Toys Group LLC,LARKSPURTOYSGROUP.COM,Software,260+,DE,info@larkspur.com,10 Feb 2025
+R1164,  acorn education partners corp ,www.acorneducationpart.com,Education,,India,info@acorn.com,9/17/2025
+R1134,FOXGLOVE ENERGY INCORPORATED,,Software,18+,UK,info@foxglove.com,12/25/2025
+R1140,Foxglove Energy International,FOXGLOVEENERGYINTE.COM,Healthcare,,DE,info@foxglove.com,18 May 2025
+R1011,Northwind Logistics Partners Inc,northwindlogistics.com,,11-50,U.S.A.,info@northwind.com,2025-09-13
+R1115,Sterling Robotics Group Incorporated,sterlingroboticsgr.com,Finance,42,U.S.A.,info@sterling.com,
+R1280,"Kestrel,Security",kestrelsecurity.com,Hospitality,51-200,us,info@kestrel.com,2/26/2025
+R1033,cedar systems group ltd,cedarsystemsgroup.com,Healthcare,42,,info@cedar.com,
+R1319,  Onyx Mining Ltd. ,onyxmining.com,Insurance,1-10,Australia,info@onyx.com,2 Sep 2025
+R1232,Granite Insurance Global Inc.,www.graniteinsurancegl.com,,1-10,United Kingdom,,08/05/2025
+R1407,Verdant Landscaping LLC,VERDANTLANDSCAPING.COM,Software,200 to 700,CA,info@verdant.com,12 Oct 2025
+R1369,saffron spices co,saffronspices.com,Gaming,~42,us,info@saffron.com,8 Jul 2025
+R1312,Nimbus Cloud Holdings Incorporated,https://nimbuscloudholding.com/,Media,51-200,Australia,info@nimbus.com,25/03/2025
+R1016,Brightpath Analytics,brightpathanalytic.com,Hospitality,100 to 140,DE,info@brightpath.com,13/04/2025
+R1462,"  Zephyr,Drones Global LLC ",zephyrdronesglobal.com,,20-60,United Kingdom,info@zephyr.com,2025-01-23
+R1095,VANTA FOODS PARTNERS CO.,vantafoodspartners.com,Telecom,51-200,USA,info@vanta.com,
+R1042,"Lumen,Retail Incorporated",lumenretail.com,Hospitality,1200+,us,,12/3/2025
+R1227,  GRANITE INSURANCE HOLDINGS ,graniteinsuranceho.com,Finance,1000+,USA,info@granite.com,2025/03/16
+R1068,Orbit Manufacturing Partners Ltd,orbitmanufacturing.com,Gaming,,Australia,info@orbit.com,2025-02-09
+R1243,Halcyon Pharma Partners Co,www.halcyonpharmapartn.com,Gaming,50 to 90,UK,info@halcyon.com,26/07/2025
+R1327,Onyx Mining International LLC,https://onyxmininginternat.com/,Telecom,50 to 250,DE,info@onyx.com,07/03/2025
+R1035,"Cedar,Systems International Ltd.",cedarsystemsintern.com,Telecom,100 to 140,India,info@cedar.com,2025/01/26
+R1307,NIMBUS CLOUD LTD.,NIMBUSCLOUD.COM,Healthcare,,,info@nimbus.com,2025/04/01
+R1446,  yarrow textiles co ,yarrowtextiles.com,Manufacturing,50 to 250,DE,info@yarrow.com,3/2/2025
+R1052,Lumen Retail Partners Ltd,www.lumenretailpartner.com,Healthcare,1200+,India,info@lumen.com,
+R1226,granite insurance holdings llc,,Finance,18+,us,contact@granite,16 Jan 2025
+R1219,EMBER HOSPITALITY GLOBAL LTD,emberhospitalitygl.com,Finance,500-1000,Australia,contact@ember,2025-03-16
+R1040,  Cedar Systems Global Ltd ,CEDARSYSTEMSGLOBAL.COM,Logistics,~260,DE,info@cedar.com,6 Sep 2025
+R1130,Meridian Travel Partners Ltd.,,,87+,India,info@meridian.com,7/1/2025
+R1169,Basalt Construction,basaltconstruction.com,,100 to 140,UK,contact@basalt,2025/03/01
+R1170,"Basalt,Construction Ltd.",BASALTCONSTRUCTION.COM,Energy,~18,CA,,23/01/2025
+R1351,QUARTZ LEGAL GLOBAL LTD,QUARTZLEGALGLOBAL.COM,Healthcare,200 to 240,United States,info@quartz.com,10/22/2025
+R1399,Umbra Optics Group Corp,umbraopticsgroup.com,Gaming,,USA, INFO@umbra.com ,2025-10-27
+R1081,Harbor Health Ltd,harborhealth.com,Hospitality,~130,us,,23/08/2025
+R1197,"Drift,Apparel Incorporated",driftapparel.com,Manufacturing,11-50,United States, INFO@drift.com ,10/18/2025
+R1196,Drift Apparel Incorporated,https://driftapparel.com/,Construction,201-500,United Kingdom,info@drift.com,7/15/2025
+R1289,LARKSPUR TOYS LTD.,www.larkspurtoys.com,Construction,500 to 700,DE,,
+R1077,Quill Software Partners,https://quillsoftwarepartn.com/,Insurance,,DE,info@quill.com,2025/09/24
+R1478,Birch Furniture International Co.,https://birchfurnitureinte.com/,,540,Germany,,2025/11/10
+R1441,Xenon Labs Partners Co,xenonlabspartners.com,Construction,100 to 600,UK,info@xenon.com,2025-08-03
+R1106,PINECREST MEDIA PARTNERS CORP,pinecrestmediapart.com,Healthcare,20-220,IN,info@pinecrest.com,04/10/2025
+R1336,Petal Cosmetics International Inc,petalcosmeticsinte.com,,,CA,info@petal.com,
+R1032,Cedar Systems Group Inc.,cedarsystemsgroup.com,Healthcare,,,info@cedar.com,14/09/2025
+R1186,COBALT TELECOM HOLDINGS INC.,COBALTTELECOMHOLDI.COM,Gaming,18+,India,info@cobalt.com,7/6/2025
+R1273,Juniper Mobility Partners Inc.,junipermobilitypar.com,Energy,500 to 590,India,info@juniper.com,8/12/2025
+R1078,  Quill Software Global Incorporated ,,Energy,260,Germany,,2025/02/26
+R9004,Northwind Logistics Inc,northwindlogistics.com,Logistics,120,USA,ops@northwindlogistics.com,2025-05-19
+R1096,"VANTA,FOODS GLOBAL LTD",www.vantafoodsglobal.com,Retail,11-50,us, INFO@vanta.com ,25/11/2025
+R1325,  Onyx Mining Group Ltd ,,,,CA,info@onyx.com,
+R1058,Orbit Manufacturing Ltd,,Hospitality,1000+,UK,info@orbit.com,10/20/2025
+R1448,  Yarrow Textiles Holdings Corp ,,Software,18,United States,info@yarrow.com,2025-10-23
+R1030,Cedar Systems,cedarsystems.com,Education,,Germany, INFO@cedar.com ,2025/12/23
+R1450,Yarrow Textiles International LLC,,,260,,info@yarrow.com,10/18/2025
+R1447,YARROW TEXTILES GROUP CORP,yarrowtextilesgrou.com,Software,501-1000,United Kingdom,,2025-02-15
+R1347,  Quartz Legal Holdings Inc. ,quartzlegalholding.com,Healthcare,200 to 700,Germany, INFO@quartz.com ,24/07/2025
+R1189,COBALT TELECOM PARTNERS INC,https://cobalttelecompartn.com/,,500-540,,info@cobalt.com,12/20/2025
+R1471,Birch Furniture Co,,Gaming,,UK,info@birch.com,2025/05/08
+R1475,  BIRCH FURNITURE GROUP CO. ,birchfurnituregrou.com,Healthcare,~18,IN,info@birch.com,1/8/2025
+R1343,Quartz Legal Inc.,quartzlegal.com,Insurance,1-10,USA,info@quartz.com,03/12/2025
+R1292,larkspur toys holdings ltd,larkspurtoysholdin.com,Pharmaceuticals,200 to 700,CA,info@larkspur.com,20 Nov 2025
+R1153,ACORN EDUCATION INCORPORATED,acorneducation.com,Healthcare,1000+,Germany,info@acorn.com,24 Jun 2025
+R1113,Sterling Robotics Corp,sterlingrobotics.com,Education,1200,Australia,info@sterling.com,25 Jun 2025
+R1125,Meridian Travel Corp,meridiantravel.com,Insurance,1-10,Germany,info@meridian.com,2025/08/23
+R1063,orbit manufacturing holdings incorporated,,,201-500,, INFO@orbit.com ,21 Sep 2025
+R1249,ironwood agritech incorporated,ironwoodagritech.com,Hospitality,1200+,CA,info@ironwood.com,2025-10-15
+R1238,"  Halcyon,Pharma Group Inc. ",halcyonpharmagroup.com,Finance,1000+,Australia,,1 Oct 2025
+R1087,Harbor Health International,harborhealthintern.com,Pharmaceuticals,20-60,United Kingdom,info@harbor.com,1/28/2025
+R1162,acorn education international ltd.,https://acorneducationinte.com/,,100-300,DE, INFO@acorn.com ,2/21/2025
+R1239,"Halcyon,Pharma Holdings Inc.",www.halcyonpharmaholdi.com,Pharmaceuticals,50-550,,contact@halcyon,8 Feb 2025
+R1345,  Quartz Legal Holdings LLC ,QUARTZLEGALHOLDING.COM,Healthcare,200-700,India,contact@quartz,
+R1451,"Yarrow,Textiles Partners Co.",yarrowtextilespart.com,Finance,130+,United States,info@yarrow.com,12 Nov 2025
+R1128,Meridian Travel Holdings Co,meridiantravelhold.com,Gaming,10-50,United Kingdom, INFO@meridian.com ,2025/07/23
+R1141,Foxglove Energy Partners,https://foxgloveenergypart.com/,,540,us,info@foxglove.com,25 Nov 2025
+R1053,"Lumen,Retail Global Inc.",LUMENRETAILGLOBAL.COM,,200 to 290,United Kingdom,,11 Oct 2025
+R1059,Orbit Manufacturing Inc,www.orbitmanufacturing.com,Insurance,540,U.S.A., INFO@orbit.com ,3/8/2025
+R1205,Drift Apparel Partners Incorporated,www.driftapparelpartne.com,Software,10-100,DE,info@drift.com,18 Sep 2025
+R1048,  Lumen Retail Holdings Co. ,www.lumenretailholding.com,Hospitality,10 to 210,,,08/01/2025
+R1207,"  ember,hospitality ltd ",EMBERHOSPITALITY.COM,Gaming,500-540,CA,info@ember.com,2025/02/22
+R1276,JUNIPER MOBILITY GLOBAL LTD.,junipermobilityglo.com,Media,10-50,United States,info@juniper.com,22 Oct 2025
+R1221,Granite Insurance LLC,www.graniteinsurance.com,Gaming,5+,,info@granite.com,
+R1349,Quartz Legal International Inc,quartzlegalinterna.com,Energy,100 to 190,India,info@quartz.com,21/10/2025
+R1298,"Mosaic,Payments Group Inc.",https://mosaicpaymentsgrou.com/,Software,200-240,,info@mosaic.com,9 Mar 2025
+R1408,"Verdant,Landscaping Co",VERDANTLANDSCAPING.COM,,1200+,IN, INFO@verdant.com ,16 Apr 2025
+R1211,Ember Hospitality Group Corp,emberhospitalitygr.com,Pharmaceuticals,500 to 700,United States,info@ember.com,12/7/2025
+R1469,Anchor Marine Partners Incorporated,www.anchormarinepartne.com,Hospitality,200 to 240,U.S.A.,,9/1/2025
+R1088,HARBOR HEALTH PARTNERS INC,harborhealthpartne.com,Finance,1200+,United States,info@harbor.com,2025/08/06
+R1477,  BIRCH FURNITURE HOLDINGS LTD ,BIRCHFURNITUREHOLD.COM,Logistics,200 to 290,IN,info@birch.com,12 Mar 2025
+R1198,"  Drift,Apparel Group Ltd ",DRIFTAPPARELGROUP.COM,,100 to 600,UK,,24/01/2025
+R1217,Ember Hospitality Global Incorporated,www.emberhospitalitygl.com,Finance,100-140,United States,info@ember.com,10/7/2025
+R1079,Harbor Health LLC,,Insurance,42+,United States,info@harbor.com,5/27/2025
+R1417,Verdant Landscaping Global Corp,verdantlandscaping.com,Finance,,India,info@verdant.com,
+R1119,"Sterling,Robotics Holdings Ltd",,Retail,1-10,U.S.A., INFO@sterling.com ,05/04/2025
+R1380,  Saffron Spices Partners Co. ,SAFFRONSPICESPARTN.COM,Retail,540+,Australia,info@saffron.com,16/03/2025
+R1067,  Orbit Manufacturing Partners Ltd ,orbitmanufacturing.com,Healthcare,10-50,CA,info@orbit.com,
+R1235,Halcyon Pharma Corp,www.halcyonpharma.com,,50 to 90,USA,info@halcyon.com,14 Jul 2025
+R1154,"acorn,education",acorneducation.com,Healthcare,,Canada,info@acorn.com,2025/11/14
+R1005,Northwind Logistics Group Co,northwindlogistics.com,Insurance,18,,info@northwind.com,2025/02/14
+R1342,  Quartz Legal Inc. ,quartzlegal.com,Insurance,,Canada,info@quartz.com,3 Jun 2025
+R1403,"Umbra,Optics Partners",umbraopticspartner.com,Software,500 to 540,,info@umbra.com,
+R1131,Meridian Travel Global Corp,https://meridiantravelglob.com/,Software,11-50,Australia,info@meridian.com,2025/07/25
+R1479,Birch Furniture International Inc,birchfurnitureinte.com,Education,500 to 1000,IN,info@birch.com,01/12/2025
+R1213,Ember Hospitality Group Co,emberhospitalitygr.com,,500 to 590,USA,info@ember.com,1 Apr 2025
+R1436,Xenon Labs Incorporated,xenonlabs.com,Energy,200 to 400,United Kingdom,info@xenon.com,
+R1334,"Petal,Cosmetics Group Corp",petalcosmeticsgrou.com,Finance,50 to 250,U.S.A.,info@petal.com,2025-09-06
+R1283,Kestrel Security International Ltd.,https://kestrelsecurityint.com/,Healthcare,201-500,,,4/3/2025
+R1453,Yarrow Textiles Partners Co.,YARROWTEXTILESPART.COM,Telecom,5,USA,info@yarrow.com,2025-09-09
+R1071,Quill Software Co.,quillsoftware.com,Gaming,100 to 140,Germany, INFO@quill.com ,2025-10-13
+R1121,Sterling Robotics Partners Co,sterlingroboticspa.com,Hospitality,,IN,info@sterling.com,2025-07-26
+R1374,Saffron Spices Group Ltd.,saffronspicesgroup.com,Telecom,1000+,DE,info@saffron.com,06/04/2025
+R1377,Saffron Spices International Ltd,,Finance,201-500,Canada,info@saffron.com,10 Apr 2025
+R1036,"Cedar,Systems International Ltd.",cedarsystemsintern.com,Retail,500-590,United Kingdom,info@cedar.com,28/06/2025
+R1092,VANTA FOODS GROUP CO.,vantafoodsgroup.com,Pharmaceuticals,130,Germany,contact@vanta,10 Sep 2025
+R1344,Quartz Legal Group Ltd,,,51-200,UK,info@quartz.com,2025/03/11
+R1346,Quartz Legal Holdings Ltd.,quartzlegalholding.com,Healthcare,50 to 90,USA,info@quartz.com,2025-05-18
+R1044,LUMEN RETAIL CO.,lumenretail.com,Construction,,Australia,info@lumen.com,2025-09-19
+R1418,"Verdant,Landscaping Global",,Telecom,18+,Australia,info@verdant.com,13 Apr 2025
+R1370,saffron spices corp,,Manufacturing,100-140,United Kingdom,info@saffron.com,2025-04-18
+R1385,Thicket Gaming Group Co.,thicketgaminggroup.com,Gaming,501-1000,,contact@thicket,3/10/2025
+R1133,Foxglove Energy Inc,www.foxgloveenergy.com,Construction,500 to 590,India,info@foxglove.com,13 May 2025
+R1435,Xenon Labs Co.,XENONLABS.COM,,42,UK,info@xenon.com,23 Aug 2025
+R1099,Pinecrest Media Incorporated,www.pinecrestmedia.com,Hospitality,5+,India,info@pinecrest.com,06/07/2025
+R1254,Ironwood Agritech Group Inc.,ironwoodagritechgr.com,,501-1000,,info@ironwood.com,07/04/2025
+R1009,Northwind Logistics International Co.,northwindlogistics.com,Manufacturing,,U.S.A.,info@northwind.com,08/06/2025
+R1216,Ember Hospitality Partners Corp,emberhospitalitypa.com,Retail,200-240,USA,info@ember.com,03/06/2025
+R1222,  Granite Insurance Ltd. ,www.graniteinsurance.com,Pharmaceuticals,,United Kingdom,info@granite.com,1/16/2025
+R1368,Rivet Hardware Global Inc.,,,~540,Germany,info@rivet.com,
+R1260,"Ironwood,Agritech International Co.",www.ironwoodagritechin.com,Gaming,100-190,USA,,2025/08/25
+R1003,northwind logistics ltd,northwindlogistics.com,Insurance,87+,DE, INFO@northwind.com ,2025-12-04
+R1027,Brightpath Analytics Global Ltd,brightpathanalytic.com,Finance,,CA, INFO@brightpath.com ,27 Mar 2025
+R1034,"cedar,systems holdings incorporated",cedarsystemsholdin.com,Hospitality,42+,USA,info@cedar.com,2025-11-16
+R1442,  Xenon Labs Global ,https://xenonlabsglobal.com/,,~18,U.S.A., INFO@xenon.com ,21/05/2025
+R1108,"  Pinecrest,Media Partners LLC ",PINECRESTMEDIAPART.COM,Healthcare,1-10,CA,,4/25/2025
+R1166,Acorn Education Global Inc,acorneducationglob.com,Logistics,260+,United States,contact@acorn,05/06/2025
+R1396,  UMBRA OPTICS CO ,umbraoptics.com,Education,10-510,U.S.A.,info@umbra.com,
+R1323,Onyx Mining Group Ltd,www.onyxmininggroup.com,Finance,~5,CA,info@onyx.com,2025/03/11
+R1258,  ironwood agritech holdings ltd ,www.ironwoodagritechho.com,,540+,Canada,,27 May 2025
+R1073,quill software holdings ltd,https://quillsoftwareholdi.com/,Construction,~42,USA, INFO@quill.com ,10/22/2025
+R1306,Mosaic Payments Global,www.mosaicpaymentsglob.com,Hospitality,~260,CA,info@mosaic.com,08/01/2025
+R1061,  Orbit Manufacturing Group Inc. ,www.orbitmanufacturing.com,,87,Germany,info@orbit.com,8/2/2025
+R1358,Rivet Hardware Inc.,RIVETHARDWARE.COM,Manufacturing,42,USA,contact@rivet,10/23/2025
+R1190,COBALT TELECOM PARTNERS CO,cobalttelecompartn.com,Healthcare,200-240,,info@cobalt.com,2025-05-28
+R1185,  COBALT TELECOM HOLDINGS LTD. ,https://cobalttelecomholdi.com/,Logistics,42+,Australia,,2025-09-01
+R1339,  Petal Cosmetics Partners Co. ,,Software,200 to 400,Germany,info@petal.com,2025/12/19
+R1150,"  Tideline,Finance Partners Inc. ",tidelinefinancepar.com,Pharmaceuticals,1000+,IN,info@tideline.com,2025-11-19
+R1376,saffron spices holdings ltd.,saffronspicesholdi.com,Finance,,UK,contact@saffron,2025-06-18
+R1389,Thicket Gaming Holdings Inc,www.thicketgamingholdi.com,Telecom,,CA,contact@thicket,2 Jul 2025
+R1363,"Rivet,Hardware International Incorporated",RIVETHARDWAREINTER.COM,Energy,87,Australia,info@rivet.com,3/2/2025
+R1236,  HALCYON PHARMA GROUP LTD. ,,Education,51-200,IN,info@halcyon.com,16/12/2025
+R1415,  VERDANT LANDSCAPING PARTNERS CO. ,www.verdantlandscaping.com,Gaming,540,USA,info@verdant.com,2025/04/10
+R1149,  Tideline Finance International Ltd. ,TIDELINEFINANCEINT.COM,,130+,Germany,contact@tideline,
+R1286,kestrel security global incorporated,kestrelsecurityglo.com,,~5,Germany,info@kestrel.com,2025/07/12
+R1019,"brightpath,analytics group",brightpathanalytic.com,Healthcare,501-1000,CA,info@brightpath.com,4/13/2025
+R1210,Ember Hospitality Co.,www.emberhospitality.com,Insurance,10 to 210,,,3/16/2025
+R1304,Mosaic Payments Partners Inc.,mosaicpaymentspart.com,Construction,42+,Canada,info@mosaic.com,
+R1171,"BASALT,CONSTRUCTION GROUP",basaltconstruction.com,Insurance,~18,United Kingdom,info@basalt.com,2025-11-19
+R1237,Halcyon Pharma Group Inc.,halcyonpharmagroup.com,,87,DE,info@halcyon.com,3/9/2025
+R1178,Basalt Construction Global Ltd.,basaltconstruction.com,Insurance,~260,Germany,info@basalt.com,2025/08/08
+R1285,Kestrel Security Partners Co.,kestrelsecuritypar.com,Telecom,18+,Australia,info@kestrel.com,2025/06/25
+R1194,  Drift Apparel Co. ,driftapparel.com,Manufacturing,5+,USA,info@drift.com,22 Jul 2025
+R1037,CEDAR SYSTEMS PARTNERS INC,https://cedarsystemspartne.com/,Education,200-290,Australia,,10/11/2025
+R1335,"PETAL,COSMETICS HOLDINGS INC",PETALCOSMETICSHOLD.COM,,10-210,UK,,14 May 2025
+R1024,Brightpath Analytics International Corp,brightpathanalytic.com,Energy,50 to 250,UK,info@brightpath.com,13 Dec 2025
+R1359,Rivet Hardware Co,rivethardware.com,Gaming,50 to 90,,info@rivet.com,2025-06-02
+R1124,"Meridian,Travel Inc.",www.meridiantravel.com,Manufacturing,200 to 400,IN,info@meridian.com,09/11/2025
+R1101,Pinecrest Media Corp,pinecrestmedia.com,,10 to 210,India,info@pinecrest.com,09/07/2025
+R1271,Juniper Mobility Holdings Corp,junipermobilityhol.com,Hospitality,100 to 600,IN,info@juniper.com,2025/11/09
+R1187,cobalt telecom international co,,Construction,540,Australia,info@cobalt.com,2025-11-23
+R1212,Ember Hospitality Group Ltd.,https://emberhospitalitygr.com/,Pharmaceuticals,,CA, INFO@ember.com ,2025-12-10
+R1199,  Drift Apparel Holdings Corp ,https://driftapparelholdin.com/,Insurance,20 to 220,Germany,contact@drift,2025-10-01
+R1253,  Ironwood Agritech Group LLC ,https://ironwoodagritechgr.com/,Gaming,,USA,info@ironwood.com,
+R1257,  Ironwood Agritech Holdings Inc. ,IRONWOODAGRITECHHO.COM,,20 to 220,USA,info@ironwood.com,2025-05-13
+R1331,Petal Cosmetics Incorporated,www.petalcosmetics.com,,~130,U.S.A.,info@petal.com,2025/02/02
+R1112,  Sterling Robotics Ltd ,STERLINGROBOTICS.COM,,,Canada,contact@sterling,2025/06/05
+R1064,  Orbit Manufacturing Holdings Corp ,orbitmanufacturing.com,,,DE,contact@orbit,7/20/2025
+R1188,Cobalt Telecom International Inc.,www.cobalttelecominter.com,Education,87+,Australia,info@cobalt.com,
+R1248,Ironwood Agritech Inc.,https://ironwoodagritech.com/,Pharmaceuticals,87,IN,contact@ironwood,2025/05/12
+R1367,  Rivet Hardware Partners Incorporated ,https://rivethardwarepartn.com/,Gaming,42,Germany,info@rivet.com,05/05/2025
+R1047,lumen retail holdings co,LUMENRETAILHOLDING.COM,Healthcare,~260,CA,info@lumen.com,2025/10/15
+R1366,rivet hardware partners ltd,www.rivethardwarepartn.com,Gaming,500-540,Germany,info@rivet.com,2025/09/27
+R1428,Willow Childcare International Ltd,willowchildcareint.com,Media,~130,CA, INFO@willow.com ,2025-07-03
+R1421,Willow Childcare Incorporated,willowchildcare.com,Software,130,Canada,info@willow.com,2025-09-26
+R1156,  Acorn Education Incorporated ,acorneducation.com,Education,20 to 520,United Kingdom,info@acorn.com,2025/11/12
+R1310,"NIMBUS,CLOUD GROUP CORP",www.nimbuscloudgroup.com,Energy,100 to 600,India,info@nimbus.com,2025-02-08
+R1245,Halcyon Pharma Global Inc,halcyonpharmagloba.com,Healthcare,51-200,Germany,,
+R1072,Quill Software Group Co,quillsoftwaregroup.com,Insurance,130,,info@quill.com,8/2/2025
+R1468,anchor marine international ltd,www.anchormarineintern.com,,,CA,info@anchor.com,2/15/2025
+R1103,Pinecrest Media Group Co,https://pinecrestmediagrou.com/,Logistics,260,Germany,info@pinecrest.com,
+R1029,Cedar Systems,cedarsystems.com,Construction,42+,DE,info@cedar.com,01/07/2025
+R1314,nimbus cloud international inc,,Media,1200+,IN,info@nimbus.com,
+R1008,  northwind logistics holdings corp ,www.northwindlogistics.com,Finance,,,info@northwind.com,2025-06-07
+R1356,Rivet Hardware Ltd.,rivethardware.com,,1000+,us,info@rivet.com,2025-01-24
+R9002,   ,,,,,,
+R1242,Halcyon Pharma International Inc.,halcyonpharmainter.com,Logistics,~87,UK,info@halcyon.com,2025-07-18
+R1459,"ZEPHYR,DRONES INTERNATIONAL CO.",ZEPHYRDRONESINTERN.COM,,18,United Kingdom,info@zephyr.com,21/12/2025
+R1333,petal cosmetics inc,petalcosmetics.com,Hospitality,500 to 540,Australia,,12/18/2025
+R1309,"  Nimbus,Cloud Group LLC ",,,~130,us,info@nimbus.com,2025-02-14
+R1151,"Tideline,Finance Partners Inc.",www.tidelinefinancepar.com,Pharmaceuticals,501-1000,UK,info@tideline.com,11/6/2025
+R1080,Harbor Health Co,,,130,United Kingdom,info@harbor.com,2025/12/21
+R1409,Verdant Landscaping Ltd,verdantlandscaping.com,Manufacturing,130+,India,info@verdant.com,11/15/2025
+R1431,  Xenon Labs ,xenonlabs.com,Insurance,500-590,Australia,info@xenon.com,
+R1083,"harbor,health group corp",,Media,500-700,U.S.A.,info@harbor.com,
+R1362,  Rivet Hardware Holdings Co ,rivethardwareholdi.com,Energy,130+,CA,info@rivet.com,03/07/2025
+R1082,Harbor Health Group,harborhealthgroup.com,Retail,,USA,info@harbor.com,12 Nov 2025
+R1340,Petal Cosmetics Global,www.petalcosmeticsglob.com,Construction,540+,U.S.A.,info@petal.com,2025/05/28
+R1432,XENON LABS CORP,xenonlabs.com,,~1200,Australia,,2025/09/12
+R1200,Drift Apparel Holdings Co,https://driftapparelholdin.com/,Insurance,,Australia,info@drift.com,
+R1137,"  Foxglove,Energy LLC ",www.foxgloveenergy.com,Construction,540+,,info@foxglove.com,
+R1463,  Anchor Marine Ltd. ,anchormarine.com,Construction,,U.S.A.,info@anchor.com,23 Jun 2025
+R1065,  Orbit Manufacturing Holdings Inc. ,orbitmanufacturing.com,Telecom,500-700,IN,info@orbit.com,
+R1354,  RIVET HARDWARE LTD ,www.rivethardware.com,Telecom,87+,United States,info@rivet.com,3/25/2025
+R1420,"  Willow,Childcare Incorporated ",willowchildcare.com,Manufacturing,~5,us, INFO@willow.com ,19 Nov 2025
+R1287,Larkspur Toys Corp,larkspurtoys.com,Healthcare,100 to 140,IN,contact@larkspur,12/24/2025
+R1175,BASALT CONSTRUCTION INTERNATIONAL INC.,basaltconstruction.com,Insurance,20 to 110,Germany,info@basalt.com,15 Sep 2025
+R1361,"Rivet,Hardware Group Ltd.",rivethardwaregroup.com,Insurance,500-540,UK,info@rivet.com,8/15/2025
+R1379,Saffron Spices Partners Co,saffronspicespartn.com,,,Australia,info@saffron.com,2025/05/25
+R1230,"  Granite,Insurance Partners Inc. ",graniteinsurancepa.com,Pharmaceuticals,1200,us,info@granite.com,2025/09/13
+R1265,  Juniper Mobility Inc. ,junipermobility.com,Construction,201-500,CA,info@juniper.com,07/11/2025
+R1120,Sterling Robotics International Ltd,sterlingroboticsin.com,Healthcare,200-400,,info@sterling.com,8 May 2025
+R1279,KESTREL SECURITY INCORPORATED,KESTRELSECURITY.COM,Logistics,1-10,CA,info@kestrel.com,2025/01/23
+R1043,  Lumen Retail LLC ,lumenretail.com,Construction,~1200,United Kingdom,contact@lumen,2025-11-25
+R1085,Harbor Health Holdings Inc.,www.harborhealthholdin.com,,20-110,United States,info@harbor.com,12 May 2025
+R1330,Onyx Mining Global Co.,onyxminingglobal.com,,1-10,UK,info@onyx.com,
+R1397,Umbra Optics Co,umbraoptics.com,Construction,42,United Kingdom,info@umbra.com,2025/03/08
+R1272,"  Juniper,Mobility International Incorporated ",junipermobilityint.com,,1-10,CA,info@juniper.com,2025/11/09
+R1233,halcyon pharma,HALCYONPHARMA.COM,Software,130,Australia,info@halcyon.com,19 Aug 2025
+R1305,MOSAIC PAYMENTS PARTNERS INC.,https://mosaicpaymentspart.com/,Retail,1200,United Kingdom,info@mosaic.com,
+R1321,  Onyx Mining Corp ,onyxmining.com,,18,India,info@onyx.com,2025/01/10
+R1054,  Lumen Retail Global Inc. ,LUMENRETAILGLOBAL.COM,Manufacturing,10 to 50,United Kingdom,contact@lumen,
+R1375,saffron spices holdings inc,www.saffronspicesholdi.com,Manufacturing,50 to 550,CA,info@saffron.com,02/04/2025
+R1090,Vanta Foods Ltd.,,Gaming,,United States,info@vanta.com,2025-04-02
+R1143,Tideline Finance Co.,tidelinefinance.com,Construction,200-400,UK,info@tideline.com,1 Sep 2025
+R1393,  THICKET GAMING PARTNERS CORP ,https://thicketgamingpartn.com/,Software,50-90,IN,info@thicket.com,2025/06/28
+R1117,  Sterling Robotics Group Co ,STERLINGROBOTICSGR.COM,Construction,1200,CA,info@sterling.com,2025/11/12
+R1360,RIVET HARDWARE GROUP CO.,www.rivethardwaregroup.com,Healthcare,501-1000,CA,info@rivet.com,5/1/2025
+R1348,"Quartz,Legal International Incorporated",QUARTZLEGALINTERNA.COM,Logistics,,IN,contact@quartz,19 Apr 2025
+R1241,"halcyon,pharma holdings co.",,Pharmaceuticals,260+,,info@halcyon.com,07/10/2025
+R1308,Nimbus Cloud Incorporated,nimbuscloud.com,Gaming,~5,India, INFO@nimbus.com ,2025-10-04
+R1434,Xenon Labs Co,https://xenonlabs.com/,Manufacturing,20 to 520,United Kingdom,info@xenon.com,2025/11/01
+R1070,"QUILL,SOFTWARE CORP",quillsoftware.com,Telecom,11-50,IN,info@quill.com,2025-02-06
+R1269,Juniper Mobility Group Incorporated,www.junipermobilitygro.com,Finance,,U.S.A.,info@juniper.com,11 Jun 2025
+R1223,Granite Insurance Group Co,,,200 to 290,DE,info@granite.com,22/05/2025
+R1158,ACORN EDUCATION GROUP INC.,acorneducationgrou.com,Insurance,500 to 540,,info@acorn.com,2025-10-15
+R1075,Quill Software International Co,quillsoftwareinter.com,Software,500 to 590,U.S.A.,info@quill.com,7 Jan 2025
+R1294,Larkspur Toys Partners LLC,https://larkspurtoyspartne.com/,Retail,51-200,CA,info@larkspur.com,2 Mar 2025
+R1419,  WILLOW CHILDCARE INCORPORATED ,,Pharmaceuticals,,,info@willow.com,6/1/2025
+R1422,Willow Childcare,willowchildcare.com,,50-550,U.S.A.,info@willow.com,13 Feb 2025
+R1372,saffron spices inc.,https://saffronspices.com/,Retail,~1200,,info@saffron.com,2025-07-10
+R1406,Verdant Landscaping LLC,verdantlandscaping.com,Education,11-50,IN,,4/25/2025
+R1381,Saffron Spices Global,saffronspicesgloba.com,Telecom,51-200,United Kingdom,info@saffron.com,2025/02/14
+R1465,  anchor marine incorporated ,ANCHORMARINE.COM,Hospitality,,Canada,,
+R1324,Onyx Mining Group Corp,www.onyxmininggroup.com,Finance,540,CA,info@onyx.com,2025/02/28
+R1089,"  harbor,health global ltd. ",harborhealthglobal.com,Gaming,200-240,Canada,info@harbor.com,
+R1102,Pinecrest Media Group Inc.,pinecrestmediagrou.com,Logistics,42+,Germany,info@pinecrest.com,2025-08-04
+R1472,Birch Furniture Inc,www.birchfurniture.com,,260,IN,info@birch.com,2025/11/11
+R1157,acorn education incorporated,,Logistics,42,, INFO@acorn.com ,18/06/2025
+R1097,Vanta Foods Global,vantafoodsglobal.com,Energy,100-300,India,,2/8/2025
+R1371,Saffron Spices Corp,SAFFRONSPICES.COM,Retail,51-200,DE,info@saffron.com,2025-12-09
+R1094,"Vanta,Foods International Inc.",www.vantafoodsinternat.com,Energy,500 to 1000,USA,info@vanta.com,
+R1161,Acorn Education International Co.,www.acorneducationinte.com,Logistics,501-1000,Germany,info@acorn.com,2/20/2025
+R1084,"Harbor,Health Group Incorporated",harborhealthgroup.com,Media,,,info@harbor.com,2025-11-27
+R1214,  Ember Hospitality Holdings Co. ,EMBERHOSPITALITYHO.COM,Software,~540,IN,,6 Aug 2025
+R1461,ZEPHYR DRONES PARTNERS INC,https://zephyrdronespartne.com/,Gaming,10 to 100,United States,info@zephyr.com,4/12/2025
+R1429,willow childcare partners co.,WILLOWCHILDCAREPAR.COM,Education,~87,IN,info@willow.com,2 Aug 2025
+R1062,orbit manufacturing group ltd,ORBITMANUFACTURING.COM,Gaming,501-1000,USA,,12 Jun 2025
+R1025,Brightpath Analytics International Inc,www.brightpathanalytic.com,,18,Canada,info@brightpath.com,11/23/2025
+R1181,Cobalt Telecom Inc.,cobalttelecom.com,Hospitality,200 to 400,,info@cobalt.com,2025-08-09
+R1353,Quartz Legal Global Incorporated,QUARTZLEGALGLOBAL.COM,Healthcare,500 to 590,Canada,info@quartz.com,11/10/2025
+R1028,  Cedar Systems Co ,CEDARSYSTEMS.COM,Education,200-290,United States,info@cedar.com,23 Nov 2025
+R1050,Lumen Retail Partners Ltd,lumenretailpartner.com,Healthcare,,United Kingdom,info@lumen.com,2025/09/06
+R1209,"Ember,Hospitality LLC",emberhospitality.com,Gaming,42+,,info@ember.com,28/05/2025
+R1458,ZEPHYR DRONES HOLDINGS LTD.,zephyrdronesholdin.com,Manufacturing,540+,Canada,info@zephyr.com,16/07/2025
+R1076,quill software partners ltd,quillsoftwarepartn.com,Insurance,87+,USA,info@quill.com,
+R1023,Brightpath Analytics International,https://brightpathanalytic.com/,Finance,260+,,info@brightpath.com,2025/02/06
+R1318,Nimbus Cloud Global Incorporated,,Healthcare,130,DE,contact@nimbus,2025-09-07
+R1180,Cobalt Telecom LLC,cobalttelecom.com,,1200+,us,info@cobalt.com,5/13/2025
+R1074,"  Quill,Software Holdings Corp ",www.quillsoftwareholdi.com,Education,20-520,India,info@quill.com,
+R1129,Meridian Travel International Inc.,www.meridiantravelinte.com,Energy,87+,,info@meridian.com,19 Jul 2025
+R1204,Drift Apparel International Incorporated,,Energy,20 to 110,United Kingdom,info@drift.com,08/04/2025
+R1234,"Halcyon,Pharma Ltd.",HALCYONPHARMA.COM,,,United States,info@halcyon.com,28 Nov 2025
+R1317,Nimbus Cloud Global Co,nimbuscloudglobal.com,Healthcare,1000+,CA,contact@nimbus,2025-04-18
+R1384,Thicket Gaming LLC,thicketgaming.com,Insurance,20-520,United States,,09/12/2025
+R1228,Granite Insurance International Corp,https://graniteinsurancein.com/,Media,201-500,United States,info@granite.com,02/05/2025
+R1208,"  Ember,Hospitality Inc. ",emberhospitality.com,Manufacturing,,CA,info@ember.com,2025-12-15
+R1155,Acorn Education Co,www.acorneducation.com,Construction,~1200,,info@acorn.com,09/04/2025
+R1300,Mosaic Payments Holdings Ltd,mosaicpaymentshold.com,,201-500,Australia,,22/06/2025
+R1392,Thicket Gaming Partners Inc.,thicketgamingpartn.com,Retail,~1200,,info@thicket.com,2/21/2025
+R1057,  orbit manufacturing ltd. ,orbitmanufacturing.com,,10-210,IN, INFO@orbit.com ,19/05/2025
+R1144,  Tideline Finance LLC ,tidelinefinance.com,,540,India,info@tideline.com,5 Jan 2025
+R1476,  birch furniture group inc. ,www.birchfurnituregrou.com,Healthcare,42+,Australia,info@birch.com,2025/01/22
+R1416,VERDANT LANDSCAPING GLOBAL,verdantlandscaping.com,Telecom,130,USA,info@verdant.com,2025/08/02
+R1268,Juniper Mobility Group Ltd,https://junipermobilitygro.com/,Manufacturing,~42,USA,,
+R1337,petal cosmetics partners co,,Software,1-10,UK,info@petal.com,16 Jun 2025
+R1311,"Nimbus,Cloud Holdings Inc",,,42+,USA,info@nimbus.com,17 Nov 2025
+R1244,HALCYON PHARMA GLOBAL LLC,HALCYONPHARMAGLOBA.COM,Hospitality,~87,United States,info@halcyon.com,02/12/2025
+R1338,"  Petal,Cosmetics Partners LLC ",https://petalcosmeticspart.com/,,10-510,United Kingdom,info@petal.com,2025/01/24
+R1191,  Cobalt Telecom Global LLC ,cobalttelecomgloba.com,Finance,42+,UK,info@cobalt.com,
+R1470,Anchor Marine Global,anchormarineglobal.com,Media,50 to 550,,info@anchor.com,
+R1251,"  Ironwood,Agritech Co ",www.ironwoodagritech.com,,1000+,India,info@ironwood.com,4 Mar 2025
+R1395,UMBRA OPTICS CO,,Software,,Germany,info@umbra.com,2025/08/28
+R1105,"Pinecrest,Media International Ltd.",pinecrestmediainte.com,Telecom,201-500,us,info@pinecrest.com,2025-10-18
+R1414,Verdant Landscaping Partners LLC,www.verdantlandscaping.com,Gaming,1200+,IN,info@verdant.com,
+R1142,"  Foxglove,Energy Global Ltd. ",https://foxgloveenergyglob.com/,,87+,United States,info@foxglove.com,12 Aug 2025
+R1473,BIRCH FURNITURE CO.,www.birchfurniture.com,Media,5,,info@birch.com,03/02/2025
+R1295,"Larkspur,Toys Global Ltd",https://larkspurtoysglobal.com/,Insurance,260+,USA,info@larkspur.com,2025/11/04
+R1388,Thicket Gaming Holdings Corp,THICKETGAMINGHOLDI.COM,Gaming,~260,U.S.A.,info@thicket.com,2025-02-18
+R1443,YARROW TEXTILES CO,www.yarrowtextiles.com,,200 to 400,UK, INFO@yarrow.com ,07/11/2025
+R1069,  Orbit Manufacturing Global Co. ,https://orbitmanufacturing.com/,Education,,,contact@orbit,13/10/2025
+R1218,Ember Hospitality Global Incorporated,emberhospitalitygl.com,Finance,100-190,United States,info@ember.com,10/11/2025
+R1172,Basalt Construction Holdings,basaltconstruction.com,Finance,51-200,U.S.A.,info@basalt.com,2025-02-26
+R1430,  Willow Childcare Global ,,Gaming,87+,Australia,info@willow.com,5/9/2025
+R1168,Basalt Construction Ltd,basaltconstruction.com,Energy,20-520,us,info@basalt.com,5 Aug 2025
+R1086,Harbor Health Holdings Co.,www.harborhealthholdin.com,Education,42+,DE,info@harbor.com,
+R1252,Ironwood Agritech Ltd,ironwoodagritech.com,Insurance,,India,info@ironwood.com,12/11/2025
+R1049,LUMEN RETAIL INTERNATIONAL INC,lumenretailinterna.com,Software,1200,IN,info@lumen.com,2025-03-05
+R1357,Rivet Hardware Ltd.,www.rivethardware.com,Education,50 to 550,Germany,info@rivet.com,
+R1250,Ironwood Agritech Inc,,Logistics,130,United Kingdom,info@ironwood.com,2025/07/15
+R1467,  Anchor Marine Holdings ,https://anchormarineholdin.com/,Energy,1200+,IN,info@anchor.com,
+R1215,  Ember Hospitality International LLC ,emberhospitalityin.com,Logistics,501-1000,United States, INFO@ember.com ,
+R1148,  Tideline Finance Holdings Inc. ,tidelinefinancehol.com,Finance,87,U.S.A.,contact@tideline,23 May 2025
+R1404,Umbra Optics Global Co.,UMBRAOPTICSGLOBAL.COM,Hospitality,540+,DE,info@umbra.com,2025/06/22
+R1439,"  Xenon,Labs International Ltd. ",xenonlabsinternati.com,Education,,us,contact@xenon,3/13/2025
+R1445,  Yarrow Textiles ,,Manufacturing,,,info@yarrow.com,
+R1267,Juniper Mobility Co.,junipermobility.com,Telecom,~42,Germany,info@juniper.com,8/4/2025
+R1122,sterling robotics global corp,,Media,42,us,info@sterling.com,2025-10-08
+R1046,Lumen Retail Holdings Co,lumenretailholding.com,Hospitality,50 to 250,India,,5/6/2025
+R1179,Basalt Construction Global Co,BASALTCONSTRUCTION.COM,Manufacturing,20 to 110,UK, INFO@basalt.com ,23/04/2025
+R1007,  Northwind Logistics Group LLC ,,,~130,United States,info@northwind.com,18/07/2025
+R1224,Granite Insurance Group Incorporated,graniteinsurancegr.com,,200 to 290,Germany, INFO@granite.com ,2/28/2025
+R1132,foxglove energy ltd,foxgloveenergy.com,Construction,100-140,us,contact@foxglove,2025/11/01
+R1412,VERDANT LANDSCAPING INTERNATIONAL INCORPORATED,verdantlandscaping.com,Pharmaceuticals,87+,us,contact@verdant,2025/01/22
+R1261,"Ironwood,Agritech International LLC",www.ironwoodagritechin.com,Gaming,540+,United Kingdom,info@ironwood.com,
+R1455,Zephyr Drones Inc,https://zephyrdrones.com/,Finance,1000+,,info@zephyr.com,17/12/2025
+R1440,  Xenon Labs International Co ,xenonlabsinternati.com,Education,1000+,India,info@xenon.com,15/01/2025
+R1026,brightpath analytics partners corp,brightpathanalytic.com,Insurance,,United States,info@brightpath.com,22/11/2025
+R1006,"northwind,logistics group corp",northwindlogistics.com,,1000+,United Kingdom,info@northwind.com,13 Nov 2025
+R1020,Brightpath Analytics Group Ltd,brightpathanalytic.com,Insurance,130+,USA,info@brightpath.com,2025-04-09
+R1383,Thicket Gaming Ltd.,thicketgaming.com,Manufacturing,100 to 300,DE,info@thicket.com,2025-10-02
+R1060,Orbit Manufacturing Group Co.,orbitmanufacturing.com,Logistics,20-520,DE,info@orbit.com,2025/10/14
+R1116,Sterling Robotics Group Corp,sterlingroboticsgr.com,,20 to 520,Australia,info@sterling.com,
+R1424,WILLOW CHILDCARE HOLDINGS,,Retail,501-1000,Germany,info@willow.com,26 Dec 2025
+R1184,"Cobalt,Telecom Group Inc.",COBALTTELECOMGROUP.COM,Hospitality,~540,,info@cobalt.com,21 Jun 2025
+R1328,  Onyx Mining Partners Co. ,ONYXMININGPARTNERS.COM,Pharmaceuticals,130,USA,contact@onyx,2025-06-16
+R1373,  Saffron Spices Group Inc. ,www.saffronspicesgroup.com,,,Germany, INFO@saffron.com ,2025-06-21
+R1400,Umbra Optics Holdings Corp,umbraopticsholding.com,Healthcare,130,United States,info@umbra.com,
+R1201,DRIFT APPAREL HOLDINGS LTD,driftapparelholdin.com,Insurance,10 to 510,United Kingdom,info@drift.com,2025/10/04
+R1281,  Kestrel Security Group LLC ,https://kestrelsecuritygro.com/,Hospitality,~5,,info@kestrel.com,6/20/2025
+R1365,"Rivet,Hardware International Co.",https://rivethardwareinter.com/,Manufacturing,10 to 100,USA,,1 Aug 2025
+R1394,"Thicket,Gaming Global Inc",thicketgaminggloba.com,Gaming,20-110,,info@thicket.com,2025-10-15
+R1303,Mosaic Payments Partners,MOSAICPAYMENTSPART.COM,Manufacturing,260+,Canada,info@mosaic.com,12/26/2025
+R1139,"Foxglove,Energy Holdings Corp",FOXGLOVEENERGYHOLD.COM,,18,CA,info@foxglove.com,5 Feb 2025
+R1341,"Quartz,Legal Co",quartzlegal.com,Telecom,200-400,Germany,info@quartz.com,2025/09/13
+R1425,  Willow Childcare Holdings LLC ,willowchildcarehol.com,Retail,,,info@willow.com,10/11/2025
+R1457,ZEPHYR DRONES GROUP INCORPORATED,zephyrdronesgroup.com,,,,info@zephyr.com,21/12/2025
+R1038,Cedar Systems Partners Corp,www.cedarsystemspartne.com,,~260,Germany,,
+R1382,"  thicket,gaming llc ",www.thicketgaming.com,,540+,India,contact@thicket,2 Jan 2025
+R1464,Anchor Marine Co.,anchormarine.com,Gaming,1-10,Canada,info@anchor.com,2025/12/23
+R1123,"  Meridian,Travel Co. ",meridiantravel.com,Manufacturing,,UK,,10/11/2025
+R1466,Anchor Marine Group Inc.,https://anchormarinegroup.com/,Insurance,10-510,Germany,info@anchor.com,
+R1017,"Brightpath,Analytics",brightpathanalytic.com,Hospitality,200-400,,info@brightpath.com,
+R1152,Tideline Finance Global Inc.,tidelinefinanceglo.com,,~87,,contact@tideline,11 Oct 2025
+R1163,ACORN EDUCATION PARTNERS CORP,acorneducationpart.com,Education,87,us,info@acorn.com,
+R1320,onyx mining inc,www.onyxmining.com,Education,,CA,info@onyx.com,2025-06-23
+R1259,Ironwood Agritech International Ltd,ironwoodagritechin.com,Gaming,130+,India,info@ironwood.com,9 Oct 2025
+R1041,Cedar Systems Global Ltd.,www.cedarsystemsglobal.com,Media,~87,India,info@cedar.com,2025/08/23
+R1413,"Verdant,Landscaping Partners Ltd.",verdantlandscaping.com,Gaming,51-200,United Kingdom, INFO@verdant.com ,3 Aug 2025
+R1107,  Pinecrest Media Partners ,pinecrestmediapart.com,Healthcare,~18,India,info@pinecrest.com,2025-04-23
+R1456,"Zephyr,Drones Co.",zephyrdrones.com,,,Australia,contact@zephyr,5/20/2025
+R1231,Granite Insurance Global,https://graniteinsurancegl.com/,,540+,USA, INFO@granite.com ,2025-01-14
+R1386,"Thicket,Gaming Group Inc.",thicketgaminggroup.com,Gaming,260+,India,,2025/09/27
+R1255,  IRONWOOD AGRITECH GROUP LLC ,,,10 to 100,DE, INFO@ironwood.com ,19/06/2025
+R1423,Willow Childcare Group Ltd,WILLOWCHILDCAREGRO.COM,Logistics,,,,10/5/2025
+R1355,rivet hardware corp,RIVETHARDWARE.COM,Telecom,100-300,DE, INFO@rivet.com ,11/5/2025
+R1482,  BIRCH FURNITURE GLOBAL CORP ,https://birchfurnitureglob.com/,Hospitality,~1200,,info@birch.com,2025-06-06
+R1240,Halcyon Pharma Holdings Incorporated,halcyonpharmaholdi.com,Pharmaceuticals,87+,IN,,2025/06/04
+R1444,Yarrow Textiles Corp,yarrowtextiles.com,Construction,~87,Australia,,2025-04-17
+R1193,Cobalt Telecom Global Inc,cobalttelecomgloba.com,,11-50,IN,info@cobalt.com,2025-11-14
+R1055,"  LUMEN,RETAIL GLOBAL ",lumenretailglobal.com,Construction,50 to 140,,info@lumen.com,6 Jun 2025
+R1277,  KESTREL SECURITY CORP ,www.kestrelsecurity.com,Healthcare,20 to 110,USA, INFO@kestrel.com ,2025/10/24
+R1045,Lumen Retail Group Incorporated,lumenretailgroup.com,Healthcare,10 to 100,IN,info@lumen.com,2025-06-24
+R1182,Cobalt Telecom Group Ltd,https://cobalttelecomgroup.com/,Gaming,~5,DE,,2025-12-16
+R1145,Tideline Finance,,,5,United States,,16 Mar 2025
+R1192,  COBALT TELECOM GLOBAL INC ,COBALTTELECOMGLOBA.COM,,,India,info@cobalt.com,2025/03/19
+R1203,Drift Apparel International Ltd.,driftapparelintern.com,Energy,1200,, INFO@drift.com ,25/09/2025
+R1332,petal cosmetics ltd,petalcosmetics.com,,540+,Australia,info@petal.com,2025/03/09
+R1410,  Verdant Landscaping Group LLC ,verdantlandscaping.com,Manufacturing,,Australia,info@verdant.com,2025-04-12
+R1091,"  vanta,foods incorporated ",vantafoods.com,Gaming,,us,,
+R1299,"Mosaic,Payments Group Incorporated",www.mosaicpaymentsgrou.com,Healthcare,200 to 240,United States,info@mosaic.com,2025/03/09
+R1093,"Vanta,Foods Holdings Incorporated",vantafoodsholdings.com,Insurance,,IN,contact@vanta,2025/04/10
+R1056,orbit manufacturing ltd.,orbitmanufacturing.com,Hospitality,260,IN,info@orbit.com,
+R1296,"MOSAIC,PAYMENTS LTD.",mosaicpayments.com,,,CA,,28/10/2025
+R1401,  umbra optics international inc ,umbraopticsinterna.com,,,Canada,info@umbra.com,
+R1104,Pinecrest Media Holdings Co.,pinecrestmediahold.com,Software,~18,us,info@pinecrest.com,
+R1167,Basalt Construction Inc,www.basaltconstruction.com,,100-140,DE,info@basalt.com,16 Aug 2025
+R1290,LARKSPUR TOYS CORP,larkspurtoys.com,Insurance,20-110,U.S.A., INFO@larkspur.com ,7/18/2025
+R1246,  HALCYON PHARMA GLOBAL INC. ,halcyonpharmagloba.com,Hospitality,200-400,IN,info@halcyon.com,14/10/2025
+R1173,Basalt Construction Holdings Inc,www.basaltconstruction.com,Hospitality,260+,Germany, INFO@basalt.com ,8/5/2025
+R1270,"Juniper,Mobility Holdings Ltd",,Hospitality,100 to 300,,info@juniper.com,12/21/2025
+R1284,"Kestrel,Security International",kestrelsecurityint.com,,42+,IN, INFO@kestrel.com ,17/05/2025
+R1177,BASALT CONSTRUCTION PARTNERS,basaltconstruction.com,Finance,11-50,,info@basalt.com,
+R1438,  XENON LABS HOLDINGS INCORPORATED ,xenonlabsholdings.com,Pharmaceuticals,42,,info@xenon.com,
+R1352,Quartz Legal Global,QUARTZLEGALGLOBAL.COM,Healthcare,,Germany,info@quartz.com,2025/04/03
+R1481,  Birch Furniture Partners Corp ,www.birchfurniturepart.com,Finance,51-200,Australia,info@birch.com,14/08/2025
+R1176,"Basalt,Construction International LLC",,,11-50,CA,info@basalt.com,4/14/2025
+R1278,Kestrel Security Ltd,kestrelsecurity.com,Logistics,,DE,info@kestrel.com,08/07/2025
+R1297,  mosaic payments ltd. ,www.mosaicpayments.com,Healthcare,10-100,India,info@mosaic.com,12/4/2025
+R1364,"Rivet,Hardware International Ltd",rivethardwareinter.com,Manufacturing,,,,
+R1206,Drift Apparel Global Incorporated,www.driftapparelglobal.com,,501-1000,UK,,2025/08/08
+R1195,"DRIFT,APPAREL LTD",driftapparel.com,Education,~130,, INFO@drift.com ,10/21/2025
+R1405,verdant landscaping incorporated,https://verdantlandscaping.com/,Hospitality,540+,U.S.A.,contact@verdant,27 Apr 2025
+R1126,Meridian Travel Inc.,meridiantravel.com,Retail,1200+,Australia,info@meridian.com,08/04/2025
+R1391,Thicket Gaming International Incorporated,thicketgaminginter.com,Gaming,~42,U.S.A.,info@thicket.com,2025/12/02
+R1402,  Umbra Optics International Incorporated ,umbraopticsinterna.com,,10 to 50,UK, INFO@umbra.com ,23/05/2025
+R1220,Granite Insurance Ltd.,graniteinsurance.com,Software,10 to 510,,,
+R1322,onyx mining llc,ONYXMINING.COM,Education,500-1000,Australia,info@onyx.com,2025/03/14
+R1110,Sterling Robotics Corp,sterlingrobotics.com,Gaming,~1200,UK,info@sterling.com,12 Dec 2025
+R1437,Xenon Labs Group,www.xenonlabsgroup.com,,,CA,info@xenon.com,2025/12/14
+R1474,  Birch Furniture ,birchfurniture.com,Media,200-240,USA, INFO@birch.com ,27 Mar 2025
+R1031,"Cedar,Systems Inc.",www.cedarsystems.com,Finance,,CA,info@cedar.com,17/10/2025
+R1326,Onyx Mining Holdings Inc.,onyxminingholdings.com,Pharmaceuticals,1000+,USA, INFO@onyx.com ,2025-04-20
+R1018,  Brightpath Analytics Inc ,brightpathanalytic.com,Manufacturing,5,U.S.A.,info@brightpath.com,17 Jun 2025
+R1051,lumen retail partners corp,lumenretailpartner.com,Healthcare,500 to 1000,USA,,2025-08-14
+R1329,  Onyx Mining Global LLC ,onyxminingglobal.com,Manufacturing,501-1000,Germany,info@onyx.com,2025/06/18
+R1452,yarrow textiles partners co.,yarrowtextilespart.com,Telecom,10-100,Australia, INFO@yarrow.com ,2025/01/13
+R1313,"Nimbus,Cloud International",,,260+,,info@nimbus.com,12/10/2025
+R1454,Yarrow Textiles Global,yarrowtextilesglob.com,Construction,,Australia,info@yarrow.com,24/08/2025
+R1274,"Juniper,Mobility Global LLC",,Media,,U.S.A.,info@juniper.com,7 Dec 2025
+R1288,Larkspur Toys Ltd.,LARKSPURTOYS.COM,Construction,500-700,DE, INFO@larkspur.com ,
+R1449,YARROW TEXTILES HOLDINGS,,Software,42,DE,info@yarrow.com,2025-11-23
+R1004,Northwind Logistics Co,www.northwindlogistics.com,,540+,U.S.A.,info@northwind.com,14 Dec 2025
+R1247,Ironwood Agritech Inc.,ironwoodagritech.com,Construction,100-190,us,contact@ironwood,
+R1114,Sterling Robotics Co.,STERLINGROBOTICS.COM,,260,United Kingdom, INFO@sterling.com ,15/04/2025
+R1159,"  Acorn,Education Group Inc ",acorneducationgrou.com,Education,1000+,,info@acorn.com,2025/11/19
+R1263,ironwood agritech global co.,www.ironwoodagritechgl.com,Media,~130,CA,info@ironwood.com,2025-09-11
+R1480,birch furniture partners llc,birchfurniturepart.com,Finance,,Australia,,2025-02-26
+R1282,  Kestrel Security Holdings LLC ,kestrelsecurityhol.com,Insurance,540,Germany,,
+R1302,MOSAIC PAYMENTS INTERNATIONAL CO.,mosaicpaymentsinte.com,Construction,1200+,India,info@mosaic.com,2025-02-10
+R1225,Granite Insurance Group Co,www.graniteinsurancegr.com,,50 to 550,,,2025/10/24
+R1262,  Ironwood Agritech Partners Co ,www.ironwoodagritechpa.com,Pharmaceuticals,10 to 50,USA,info@ironwood.com,2025-12-18
+R1013,Northwind Logistics Global Ltd,https://northwindlogistics.com/,Gaming,130+,UK,,08/10/2025
+R1426,Willow Childcare Holdings LLC,,,200 to 700,CA,info@willow.com,15 May 2025
+R1010,Northwind Logistics International Corp,northwindlogistics.com,Manufacturing,42,India,,2025/09/07
+R1202,drift apparel international ltd,,Energy,,,info@drift.com,4 Jan 2025
+R1021,Brightpath Analytics Group Inc,brightpathanalytic.com,Energy,~540,IN, INFO@brightpath.com ,08/02/2025
+R1147,"Tideline,Finance Group",,Healthcare,1-10,CA,info@tideline.com,28/08/2025
+R1293,Larkspur Toys International Incorporated,,Insurance,51-200,United Kingdom,info@larkspur.com,6/10/2025
+R1100,Pinecrest Media Inc,,Logistics,200-290,Germany, INFO@pinecrest.com ,05/06/2025
+R1022,BRIGHTPATH ANALYTICS HOLDINGS INC.,www.brightpathanalytic.com,Education,1-10,United States,info@brightpath.com,
+R9001,,ghostdomain.com,Software,50,USA,info@ghost.com,2025-03-04
+R1002,Northwind Logistics,https://northwindlogistics.com/,Hospitality,50-90,United Kingdom,info@northwind.com,2025/04/28
+R1264,Juniper Mobility Ltd,,Software,10 to 50,Canada,info@juniper.com,24 Oct 2025
+R1275,JUNIPER MOBILITY GLOBAL INC.,www.junipermobilityglo.com,,50 to 140,United Kingdom,,18/11/2025
+R1039,Cedar Systems Partners Co.,cedarsystemspartne.com,Finance,5+,IN,info@cedar.com,12/26/2025
+R1146,Tideline Finance Ltd,tidelinefinance.com,Media,130,USA,info@tideline.com,
+R1301,  Mosaic Payments International Ltd ,mosaicpaymentsinte.com,Construction,87+,, INFO@mosaic.com ,5 May 2025
+R1350,  Quartz Legal Partners Incorporated ,quartzlegalpartner.com,Retail,20 to 60,USA,contact@quartz,2/27/2025
+R1109,PINECREST MEDIA GLOBAL INC,www.pinecrestmediaglob.com,Healthcare,50-140,USA,info@pinecrest.com,2 May 2025
+R1118,  Sterling Robotics Holdings Co. ,sterlingroboticsho.com,,201-500,Germany,info@sterling.com,23/07/2025
+R1160,"  Acorn,Education Holdings Inc ",,,130+,,info@acorn.com,2025-04-07
+R1398,Umbra Optics Incorporated,,Manufacturing,42+,Canada,info@umbra.com,
+R1098,"Pinecrest,Media Ltd.",,Hospitality,42+,Canada,info@pinecrest.com,2025/10/26
+R1127,"  Meridian,Travel Group ",meridiantravelgrou.com,Logistics,~18,India,info@meridian.com,2025/09/12
+R1001,"Northwind,Logistics",northwindlogistics.com,Insurance,10-100,DE, INFO@northwind.com ,26 Aug 2025
+R1266,Juniper Mobility Co,,Construction,1200,,info@juniper.com,9/26/2025
+R1378,"  Saffron,Spices International Incorporated ",saffronspicesinter.com,Finance,500-540,Germany,info@saffron.com,4/11/2025
+R1111,STERLING ROBOTICS CO,www.sterlingrobotics.com,Logistics,~1200,us,info@sterling.com,11/04/2025
+R1165,ACORN EDUCATION GLOBAL INC,ACORNEDUCATIONGLOB.COM,Media,50-250,Australia,info@acorn.com,26 Jun 2025
+R1411,  Verdant Landscaping Holdings Ltd ,https://verdantlandscaping.com/,Software,5+,UK,info@verdant.com,
+R1136,Foxglove Energy Ltd,,Construction,,UK,info@foxglove.com,10/01/2025
+,Stray Holdings LLC,strayholdings.com,Finance,twelve,United States,not-an-email,31/31/2025
+R1135,"foxglove,energy ltd",FOXGLOVEENERGY.COM,,5,UK,info@foxglove.com,2025/09/24
