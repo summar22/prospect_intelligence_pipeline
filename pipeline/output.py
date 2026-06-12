@@ -55,6 +55,17 @@ def write_output(
     )
     logger.info("Wrote %d prospects to %s", len(prospects), prospects_path)
 
+    # ── 1b. CSV output for easy Excel viewing ────────────────────────────────
+    import csv
+    csv_path = OUTPUT_DIR / "enriched_prospects.csv"
+    if prospects_data:
+        keys = prospects_data[0].keys()
+        with open(csv_path, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=keys)
+            writer.writeheader()
+            writer.writerows(prospects_data)
+        logger.info("Wrote %d prospects to %s", len(prospects), csv_path)
+
     # ── 2. Dead-letter queue ─────────────────────────────────────────────────
     dead_letter = [p.to_dict() for p in prospects if p.enrichment_status == "failed"]
     dead_letter_path = OUTPUT_DIR / "dead_letter.json"
